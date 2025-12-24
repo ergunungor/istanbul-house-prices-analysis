@@ -22,7 +22,7 @@ The analysis revealed a right-skewed distribution in house prices. After winsori
 **Price Distribution by District:**
 *(Please ensure 'istanbul_ev_fiyatlari.png' is uploaded to the repository for this image to appear)*
 
-![Istanbul House Prices Graph](istanbul_ev_fiyatlari.png)
+![Istanbul House Prices Graph](istanbul_house_prices.png)
 
 ## 🚀 How to Run
 1. Clone the repository:
